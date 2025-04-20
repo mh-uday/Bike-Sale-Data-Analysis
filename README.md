@@ -1,42 +1,37 @@
-# Bike Sale Data Analysis
+# Bike Sales Data Analysis
 
 ### Project Overview
 
-This project explores usage patterns in bike share systems using real-world trip data. The goal is to derive meaningful insights by cleaning, organizing, and analyzing the dataset entirely in Microsoft Excel.
+This project analyzes bike sales data using Microsoft Excel to uncover insights into customer demographics, sales performance, and buying trends. The dataset includes customer information, product details, and sales transactions. The goal is to understand what factors drive bike sales and to visualize the data in a meaningful way using Excel tools.
+
 
 ### Data Sources
 
 The Primary dataset use for this project is the "bike_buyers Dataset.xlsx" file, containing detailed informations.
 
+
 ### Tools
 
 - Microsoft Excel
 
-### Key Analysis
 
-1. User Type Distribution
+### Findings
 
-    - Majority of users are Subscribers (approx. 75%)
+1. Income Impact: Customers with annual income above $60,000 are significantly more likely to purchase a bike.
 
-    - Customers account for more irregular or one-time use
+2. Age Distribution: Majority of purchases come from individuals aged 25–45, showing a clear target demographic.
 
-2. Trip Duration Analysis
-
-      - Average trip duration: 12 minutes
-
-      - Customers tend to take longer trips (avg. 18 mins) vs. Subscribers (avg. 10 mins)
-
-3. Peak Usage Times
-
-    - Weekday peaks: 8 AM and 5-6 PM (commute hours)
-
-    - Weekend usage is more evenly spread across the day
+3. Commute Distance: People with a commute distance of 0–10 miles are the highest buyers, indicating local or short-distance commuters are the core customer base.
       
-4. Gender and Age Distribution
+4. Marital Status & Education: Married individuals and those with higher education levels tend to purchase more bikes.
 
-    - A majority of users fall in the 25–35 age range.
+5. Gender Trends: Sales are slightly higher among male customers, but female buyers are not far behind—suggesting potential for targeted marketing.
 
-    - Male users outnumber female users roughly 3:1
+
+### Conclusions
+
+- Target Marketing: Marketing efforts should focus on working professionals aged 25–45 with higher income and shorter commutes.
+- Demographic Alignment: Sales strategies should consider demographic profiles such as education, income, and lifestyle.
 
 
 
